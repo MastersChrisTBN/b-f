@@ -1,7 +1,8 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
-# team: life of programmer
+# Create By: Pak Steven
+# Telegram: @paksteven
+# Telegram Group: @TermuxUserBrute
 
 
 import os
@@ -36,26 +37,26 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(GL+"              Selamat datang Masters. ^_^")
+    runntxt(WW+"   .........  Gunakan dengan Bijak ya 😂")
+    runntxt(WW+"     ....     By Pak steven")
+    runntxt(GL+"              Ingat! Jangan Hack Fb Ku")
+    runntxt(GG+"     ......................................")
+    runntxt(Y+"    ............     Semoga Bermanfaat")
+    runntxt(GG+"           Semoga Bisa Membantu")
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
+    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK B-F.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print WW+"  |            CREATE BY: PAK STEVEN             |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |.            ~~~~~~~~~~~~~~~~~~~.            |"
+    print Y+"  |        TELEGRAM GROUP @TermuxUserBrute.      |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
+    print GL+"  |          SEMOGA TIDAK KENA BANNED|"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GL+"  |••••••••••• RESIKO TANGGUNG SENDIRI •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
@@ -79,13 +80,13 @@ def pil():
                     print wd+"Keluar dari program..."
                     sys.exit()
                 else:
-                    print RR+"Pilih yang bener cuk..."
+                    print RR+"Pilih yang bener..."
                     pil()
 
 def edit_wordlist():
 
         print GG+" "
-        ed = str(raw_input("[?] Edit wordlist cuk.? \033[96;1m[y/n]: "))
+        ed = str(raw_input("[?] Edit wordlist.? \033[96;1m[y/n]: "))
         if ed == 'y' or ed == 'Y':
                 os.system('nano '+password_list)
                 pil()
@@ -174,7 +175,7 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m PAK STEVEN
       """
 
 
